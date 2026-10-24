@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliReza-Pro-grammer
-- 👀 I’m interested in Programing_3d_Graphic
-- 🌱 I’m currently learning Angular_flutter_python
-- 💞️ I’m looking to collaborate on Ai or ...
+- 👀 I’m interested in AI && Programing
+- 🌱 I’m currently learning DeepLearning | React
+- 💞️ I’m looking to collaborate on Ai | DevOps
 - 📫 How to reach me Work.acount.0v0@gmail.com
 
 <!---
